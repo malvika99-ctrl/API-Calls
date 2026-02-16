@@ -1,0 +1,9 @@
+StudentID,FirstName,LastName,Age,Gender,Course,Grade,EnrollmentDate
+1001,Ava,Smith,20,F,Data Science,A,2024-09-01
+1002,Liam,Brown,21,M,Computer Science,B+,2024-09-01
+1003,Noah,Wilson,19,M,Mathematics,A-,2024-09-01
+1004,Emma,Taylor,22,F,AI,A,2024-09-01
+1005,Olivia,Johnson,20,F,Data Engineering,B,2024-09-01
+1006,Elijah,Martin,23,M,Statistics,B+,2024-09-01
+1007,Sophia,Lee,21,F,Machine Learning,A,2024-09-01
+1008,Lucas,Clark,22,M,Cybersecurity,A-,2024-09-01
